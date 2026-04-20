@@ -1,0 +1,8 @@
+fuclaude
+config.json
+.config.json.swp
+.claude/
+.ipynb_checkpoints/
+src/fuclaude-new
+src/test_config.json
+*.log
