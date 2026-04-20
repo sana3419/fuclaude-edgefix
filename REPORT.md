@@ -1,5 +1,7 @@
 # Fuclaude v0.5.1 逆向分析与 edge-api 修复方案
 
+> GitHub: https://github.com/sana3419/fuclaude-edgefix
+
 ## 背景
 
 最近 Claude 官方更新了前端，将 `/api/bootstrap` 迁移到了 `/edge-api/bootstrap`，导致 fuclaude v0.5.1 出现 "cannot reach claude" 错误，具体表现为浏览器控制台报 500：
